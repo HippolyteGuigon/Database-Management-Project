@@ -1,0 +1,5 @@
+,web-Google_500000.csv,web-Google_1000000.csv,web-Google_1500000.csv,web-Google_2000000.csv,web-Google_2500000.csv,web-Google_3000000.csv,web-Google_3500000.csv,web-Google_4000000.csv,web-Google_total.csv
+Number of Edges,401423.0,797810.0,1190931.0,1590942.0,1995511.0,2414404.0,2843914.0,3288014.0,4322051.0
+Number of connected components,1383.0,2287.0,3022.0,3613.0,4118.0,4276.0,4261.0,4052.0,2746.0
+#of indirect neighboors,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0
+Computational time (RDD),61.235,81.538,108.53,119.027,149.105,160.336,187.692,215.346,312.024
